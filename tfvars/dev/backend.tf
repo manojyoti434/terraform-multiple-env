@@ -1,4 +1,3 @@
-
 bucket = "84s-remote-state-mano-dev"
 key    = "tfvars-demo"
 region = "us-east-1"
